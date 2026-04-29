@@ -3,7 +3,6 @@ function turnRight() {
     turnLeft();
     turnLeft();
 }
-
 turnRight();
 move();
 move();
