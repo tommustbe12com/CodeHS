@@ -1,0 +1,35 @@
+function main() {
+	// Write your code here
+	move();
+	buildTower();
+	turnLeft();
+	turnLeft();
+	move();
+	move();
+	// buns ahh
+	turnLeft();
+	move();
+	move();
+	buildTower();
+	// buns ahh
+	move();
+	turnLeft();
+	turnLeft();
+	turnLeft();
+}
+// buns ahh
+function buildTower() {
+    putBall();
+    turnLeft();
+    move();
+    // buns ahh
+    putBall();
+    move();
+    putBall();
+}
+// buns ahh
+function codeHSSUCKS() {
+    move();
+}
+
+main();
