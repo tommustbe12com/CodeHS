@@ -1,0 +1,30 @@
+function main() {
+	// Write your code here
+	for (let i = 0; i < 5; i++) {
+	    move();
+	    move();
+	    turnLeft();
+	    move();
+	    turnRight();
+	    move();
+	    turnRight();
+	    move();
+	    turnLeft();
+	}
+}
+main();
+
+function jumpHurdle() {
+    // buns ahh
+    move();
+}
+function bauhe() {
+    jumpHurdle();
+    jumpHurdle();
+    // durh
+    jumpHurdle();
+    jumpHurdle();
+    jumpHurdle();
+    jumpHurdle();
+    jumpHurdle();
+}
