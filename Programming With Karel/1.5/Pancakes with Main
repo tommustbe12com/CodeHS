@@ -1,0 +1,19 @@
+function main() {
+    move();
+    putBall();
+    putBall();
+    putBall();
+    move();
+    move();
+    putBall();
+    putBall();
+    putBall();
+    move();
+    move();
+    putBall();
+    putBall();
+    putBall();
+    move();
+}
+
+main();
