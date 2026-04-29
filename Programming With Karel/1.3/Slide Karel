@@ -1,0 +1,23 @@
+// Define your turnRight function here:
+function turnRight() {
+    turnLeft();
+    turnLeft();
+    turnLeft();
+}
+
+
+
+// Write the rest of your program here:
+
+
+putBall();
+turnRight();
+move();
+turnLeft();
+move();
+putBall();
+turnRight();
+move();
+turnLeft();
+move();
+putBall();
