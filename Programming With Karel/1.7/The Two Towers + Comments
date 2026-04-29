@@ -1,0 +1,35 @@
+function main() {
+	// Write your code here
+	move();
+	buildTower();
+	turnLeft();
+	turnLeft();
+	move();
+	move();
+	// turn left for tower
+	turnLeft();
+	move();
+	move();
+	buildTower();
+	// move and turn right
+	move();
+	turnLeft();
+	turnLeft();
+	turnLeft();
+}
+// build tower function
+function buildTower() {
+    putBall();
+    turnLeft();
+    move();
+    // buns ahh
+    putBall();
+    move();
+    putBall();
+}
+// function that teachers need!
+function codeHSSUCKS() {
+    move();
+}
+
+main();
