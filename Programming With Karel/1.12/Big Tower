@@ -1,0 +1,29 @@
+/* This program draws a big tower from Karel's starting spot */
+function main() {
+	// Write your code here
+	orientKarel();
+	putBall();
+	while(frontIsClear()) {
+	    buildTowerPart();
+	}
+}
+
+main();
+
+function orientKarel() {
+    if(facingSouth()) {
+	    turnLeft();
+	    turnLeft();
+	} else if(facingWest()) {
+	    turnLeft();
+	    turnLeft();
+	    turnLeft();
+	} else if(facingEast()) {
+	    turnLeft();
+	}
+}
+
+function buildTowerPart() {
+    move();
+    putBall();
+}
