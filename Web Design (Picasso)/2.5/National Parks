@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>national parks</title>
+    </head>
+    
+    <body>
+        <h1>National parks that you gotta visit bruh</h1>
+        <a href="https://en.wikipedia.org/wiki/Yosemite_National_Park"><img src="https://codehs.com/uploads/c473f4155f103a7fc88d71ae81cab91a" width="250px" height="175px"></a>
+        <a href="https://en.wikipedia.org/wiki/Yellowstone_National_Park"><img src="https://codehs.com/uploads/4804a05d756500316d8832097a1b37db" width="250px" height="175px"></a>
+        <a href="https://en.wikipedia.org/wiki/White_Sands_National_Park"><img src="https://codehs.com/uploads/60a566ad34cc8741d7ac9020c45cf090" width="250px" height="175px"></a>
+        <a href="https://en.wikipedia.org/wiki/Pinnacles_National_Park"><img src="https://codehs.com/uploads/e13bc620bb5d3f973e16e2ee47fe30dc" width="250px" height="175px"></a>
+        <a href="https://en.wikipedia.org/wiki/Death_Valley_National_Park"><img src="https://codehs.com/uploads/c304c25100947a7b3d35e926a67c2ac9" width="250px" height="175px"></a>
+    </body>
+</html>
