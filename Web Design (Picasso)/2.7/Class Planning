@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Classes to Take</title>
+    </head>
+    
+    <body>
+        <h1>Classes to Take</h1>
+        <!-- Put your list here -->
+        <ul>
+            <li>
+                Web Development
+            </li>
+            <ul>
+                <li>
+                    Fun and engaging
+                </li>
+                <li>
+                    Interesting tags
+                </li>
+                <li>
+                    Only non-boring class
+                </li>
+                <li>
+                    you can make whatever u want
+                </li>
+            </ul>
+            <li>
+                science
+            </li>
+            <ul>
+                <li>
+                    take notes
+                </li>
+                <li>
+                    learn about stuff
+                </li>
+            </ul>
+            <li>
+                P.E
+            </li>
+            <ul>
+                <li>
+                    to get buff
+                </li>
+                <li>
+                    and otherwise you're an average american
+                </li>
+            </ul>
+            <li>
+                spanish
+            </li>
+            <ul>
+                <li>
+                    to learn more about culture in other countries
+                </li>
+                <li>
+                    Learn how to speak fluently
+                </li>
+                <li>
+                    Better communication with others.
+                </li>
+            </ul>
+            <li>
+                AP 67
+            </li>
+            <ul>
+                <li>
+                    67 is life
+                </li>
+                <li>
+                    To learn about how to find random crap
+                </li>
+            </ul>
+            <li>
+                linear algebra
+            </li>
+            <ul>
+                <li>
+because i want to torture myself                </li>
+                <li>
+                    learn more about crap i won't use
+                </li>
+            </ul>
+        </ul>
+    </body>
+</html>
