@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CodeHS</title>
+        <style>
+            body {
+                background-color: black;
+                color: white;
+                font-family: Arial;
+                margin: 50px;
+            }
+            h1 {
+                font-size: 100px;
+            }
+        </style>
+    </head>
+    
+    <body>
+        <h1>Collage</h1>
+        <p>Welcome to my sigma collage that uses images from my website.</p>
+        <img src="https://tommustbe12.com/assets/profile.png" height="150px" width="100px">
+        <img src="https://tommustbe12.com/assets/mchouse.png" height="150px" width="100px"
+        <br><br>
+        <img src="https://tommustbe12.com/assets/endscreenshot.png" height="150px" width="100px">
+        <img src="https://tommustbe12.com/assets/dirt.png" height="150px" width="100px">
+    </body>
+</html>
