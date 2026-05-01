@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Embedding Wikipedia</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        <h1>Wikipedia in a dumb iframe (HOPEFULLY STUPID NETWORK DOESNT BLOCK IT LOL)</h1>
+        <iframe src="https://wikipedia.org">
+    </body>
+</html>
