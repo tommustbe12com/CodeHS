@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Vacation Ideas</title>
+    </head>
+    
+    <body>
+        <h1>Dream Vacation Destinations</h1>
+        <ol>
+            <li>Hawaii</li>
+            <ul>
+                <li><a href="https://www.worldtravelguide.net/guides/north-america/united-states-of-america/hawaii/">Guide to Hawaii</a></li>
+                <li>Visit in March</li>
+                <li>
+                    Go for two weeks
+                </li>
+            </ul>
+            <li>new york city</li>
+            <ul>
+                <li><a href="https://www.worldtravelguide.net/guides/north-america/united-states-of-america/new-york-state/new-york-city/">Guide to New York City</a></li>
+                <li>Visit in October</li>
+                <li>Go for one week</li>
+            </ul>
+            <li>
+                alaska
+            </li>
+            <ul>
+                <li><a href="https://www.worldtravelguide.net/guides/north-america/united-states-of-america/alaska/">Guide to Alaska</a>
+                <li>
+                    Visit in September
+                </li>
+                <li>
+                    Go for 3 weeks
+                </li>
+            </ul>
+            <li>
+                Mexico
+            </li>
+            <ul>
+                <li>
+                    <a href="https://www.worldtravelguide.net/guides/north-america/mexico/">Guide to Mexico</a>
+                </li>
+                <li>
+                    Visit in February
+                </li>
+                <li>
+                    Go for 2 weeks
+                </li>
+            </ul>
+            <li>
+                Washington D.C.
+            </li>
+            <ul>
+                <li>
+                    <a href="https://www.worldtravelguide.net/guides/north-america/united-states-of-america/washington-dc/">Guide to Washington D.C.</a>
+                </li>
+                <li>
+                    Visit in May
+                </li>
+                <li>
+                    Go for one week
+                </li>
+            </ul>
+        </ol>
+    </body>
+</html>
