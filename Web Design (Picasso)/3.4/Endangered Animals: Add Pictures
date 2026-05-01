@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Endangered Species</title>
+		<style>
+		    body{
+		        background-color: #ffd1aa;
+		        font-size: 18px;
+		    }
+		    h1 {
+                color: #003333;
+            }
+            h2 {
+                color: #162955;
+            }
+            .endangered {
+                color: red;
+            }
+			.threatened {
+				color: orangered;
+			}
+            .scientific-name {
+                font-style: italic;
+            }
+            #gelada {
+                border-style: solid;
+            }
+            #lanoa {
+                border-style: dotted;
+            }
+            #manoa {
+                border-style: dashed;
+            }
+            #argali {
+                border-style: double;
+            }
+		</style>
+	</head>
+
+	<body>
+		<h1>sad endangered buns-ahh animals</h1>
+		<h2>Lowland anoa</h2>
+		<ul>
+			<li class="scientific-name">Bubalus depressicornis</li>
+			<li>Indonesia</li>
+			<li class="endangered">Endangered</li>
+		</ul>
+        <img src="https://th.bing.com/th/id/OIP.xFHRSb6QiHrP8P8c1pJbXQHaFU?w=244&h=180&c=7&r=0&o=7&pid=1.7&rm=3" id="lanoa">
+        <p>Public Domain, Alamy</p>
+		<h2>Mountain anoa</h2>
+		<ul>
+			<li class="scientific-name">Bubalus quarlesi</li>
+			<li>Indonesia</li>
+			<li class="endangered">Endangered</li>
+		</ul>
+        <img src="https://th.bing.com/th/id/OIP.i4GJeJr-UjA51y0MAz_ndQHaFt?w=201&h=180&c=7&r=0&o=7&pid=1.7&rm=3" id="manoa">
+        <p>Public Domain, Alamy</p>
+		<h2>Argali</h2>
+		<ul>
+			<li class="scientific-name">Ovis ammon</li>
+			<li>Eurasia</li>
+			<li class="endangered">Endangered</li>
+		</ul>
+        <img src="https://th.bing.com/th/id/OIP.S6ou9TTN3B4Is51tnD16swHaHa?w=169&h=180&c=7&r=0&o=7&pid=1.7&rm=3" id="argali">
+        <p>Public Domain, Alamy</p>
+		<h2>Gelada</h2>
+		<ul>
+			<li class="scientific-name">Theropithecus gelada</li>
+			<li>Ethiopia</li>
+			<li class="threatened">Threatened</li>
+		</ul>
+        <img src="https://th.bing.com/th/id/OIP.2cXEiQ5f66FBq6Gba_mEFgHaFA?w=284&h=192&c=7&r=0&o=7&pid=1.7&rm=3" id="gelada">
+        <p>Public Domain, Alamy</p>
+	</body>
+</html>
