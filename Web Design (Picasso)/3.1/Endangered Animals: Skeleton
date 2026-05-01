@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Endangered Species</title>
+		<style>
+		    body{
+		        background-color: #ffd1aa;
+		        font-size: 18px;
+		    }
+		    
+		</style>
+	</head>
+
+	<body>
+		<h1>sad endangered buns-ahh animals</h1>
+		<h2>Lowland anoa</h2>
+		<ul>
+			<li>Bubalus depressicornis</li>
+			<li>Indonesia</li>
+			<li>Endangered</li>
+		</ul>
+		<h2>Mountain anoa</h2>
+		<ul>
+			<li>Bubalus quarlesi</li>
+			<li>Indonesia</li>
+			<li>Endangered</li>
+		</ul>
+		<h2>Argali</h2>
+		<ul>
+			<li>Ovis ammon</li>
+			<li>Eurasia</li>
+			<li>Endangered</li>
+		</ul>
+		<h2>Gelada</h2>
+		<ul>
+			<li>Theropithecus gelada</li>
+			<li>Ethiopia</li>
+			<li>Threatened</li>
+		</ul>
+	</body>
+</html>
