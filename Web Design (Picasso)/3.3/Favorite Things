@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Daily Favorites</title>
+        <style>
+            table {
+                width: 100%;
+                font-family: Helvetica;
+            }
+            .header {
+                background-color: OliveDrab;
+                color: white;
+                text-align: center;
+            }
+            .odd-row {
+                background-color: sandybrown;
+            }
+            .even-row {
+                background-color: lightcoral;
+            }
+            </style>
+    </head>
+    
+    <body>
+        <table border="1">
+            <tr class="header">
+                <th>Sunday</th>
+                <th>Monday</th>
+                <th>Tuesday</th>
+                <th>Wednesday</th>
+                <th>Thursday</th>
+                <th>Friday</th>
+                <th>Saturday</th>
+            </tr>
+            <!-- Food for breakfast -->
+            <tr class="odd-row">
+                <td>Waffles</td>
+                <td>School breakfast</td>
+                <td>cereal</td>
+                <td>egg on toast</td>
+                <td>toast & eggs</td>
+                <td>Cereal</td>
+                <td>Egg on toast</td>
+            </tr>
+            <!-- Thing to do -->
+            <tr class="even-row">
+                <td>Something else</td>
+                <td>Fortnite</td>
+                <td>Robotics</td>
+                <td>Arduino</td>
+                <td>Earn money</td>
+                <td>Earn money</td>
+                <td>Arduino</td>
+            </tr>
+            <!-- People -->
+            <tr class="odd-row">
+                <td>Family</td>
+                <td>Family</td>
+                <td>Robotics ppl</td>
+                <td>Family</td>
+                <td>Co-workers</td>
+                <td>Co-workers</td>
+                <td>Family</td>
+            </tr>
+            <!-- Place to go -->
+            <tr class="even-row">
+                <td>Park</td>
+                <td>My Room</td>
+                <td>My Room</td>
+                <td>another park</td>
+                <td>park 67</td>
+                <td>My Room</td>
+                <td>Yard</td>
+            </tr>
+        </table>
+    </body>
+</html>
