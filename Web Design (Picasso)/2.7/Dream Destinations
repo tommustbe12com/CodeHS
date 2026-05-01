@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Vacation Ideas</title>
+    </head>
+    
+    <body>
+        <h1>Dream Vacation Destinations</h1>
+        <ol>
+            <li>hawaii</li>
+            <ol>
+                <li>place where i can speak hawaiian</li>
+                <li>beach for surfing</li>
+                <li>
+                    volcanoes and stuff
+                </li>
+            </ol>
+            <li>new york city</li>
+            <ol>
+                <li>empire state building</li>
+            </ol>
+            <li>
+                alaska
+            </li>
+            <ol>
+                <li>
+                    Glaciers and stuff
+                </li>
+                <li>
+                    tons of snow and stuff that i wanna view
+                </li>
+            </ol>
+            <li>
+                Mexico
+            </li>
+            <ol>
+                <li>
+                    beach
+                </li>
+                <li>
+                    cool historic sites
+                </li>
+            </ol>
+            <li>
+                Washington D C
+            </li>
+            <ol>
+                <li>
+                    washington monument
+                </li>
+                <li>
+                    See the white house
+                </li>
+                <li>Go near and see virginia and thomas jefferson and other stuff from USA's history</li>
+            </ol>
+        </ol>
+    </body>
+</html>
