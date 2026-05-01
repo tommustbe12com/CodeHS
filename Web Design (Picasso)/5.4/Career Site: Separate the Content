@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Web Dev</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+
+	<body>
+		<div class="header"><h1>Web Developing: Create cool Websites that do cool Stuff</h1></div>
+		<div class="content"><h2>Falls into computer science category</h2>
+		<p>I am interested in this career because I've already worked pretty hard towards it. I also like doing it as you can see since I made this site.</p>
+		<br>
+        </div>
+		<div class="footer"><a href="jobinfo.html">More Information</a></div>
+	</body>
+</html>
