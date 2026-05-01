@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>National Sport</title>
+    </head>
+    
+    <body>
+        <h1>National Sports</h1>
+        <table border="1">
+            <tr>
+                <th>Country</th>
+                <th>National Sport</th>
+                <th>Established by Law?</th>
+            </tr>
+            <tr>
+                <td>Norway</td>
+                <td>Cross Country Skiing</td>
+                <td>No</td>
+            </tr>
+            <tr>
+                <td>Brazil</td>
+                <td>Capoeira</td>
+                <td>Yes</td>
+            </tr>
+            <tr>
+                <td>Catalonia</td>
+                <td>Roller Hockey</td>
+                <td>No</td>
+            </tr>
+            <tr>
+                <td>Barbados</td>
+                <td>Cricket</td>
+                <td>No</td>
+            </tr>
+            <tr>
+                <td>Iran</td>
+                <td>Freestyle Wrestling</td>
+                <td>No</td>
+            </tr>
+        </table>
+    </body>
+</html>
