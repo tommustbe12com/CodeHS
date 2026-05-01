@@ -6,6 +6,7 @@ A suite of CodeHS answers for different units and problems that you can easily c
 
 ## In-progress Programs
 - Programming With Karel
+- Web Design (Picasso)
 
 ## To-do Programs
 - Hour of SQL
@@ -16,10 +17,6 @@ A suite of CodeHS answers for different units and problems that you can easily c
 - Hour of Code: Javascript Graphics Art
 - The Internet
 - Karel Challenges
-- CSS: Styling Websites
-- HTML - Structuring Websites
-- Advanced HTML and CSS
-- Bootstrap
 - Basic Java
 - Methods
 - Classes and Object-Oriented Programming
