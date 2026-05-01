@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Daily Favorites</title>
+    </head>
+    
+    <body>
+        <table>
+            <tr>
+                <th>Sunday</th>
+                <th>Monday</th>
+                <th>Tuesday</th>
+                <th>Wednesday</th>
+                <th>Thursday</th>
+                <th>Friday</th>
+                <th>Saturday</th>
+            </tr>
+            <!-- Food for breakfast -->
+            <tr>
+                <td>Waffles</td>
+                <td>School breakfast</td>
+                <td>School breakfast</td>
+                <td>School breakfast</td>
+                <td>School breakfast</td>
+                <td>Cereal</td>
+                <td>Egg on toast</td>
+            </tr>
+            <!-- Thing to do -->
+            <tr>
+                <td>Something else</td>
+                <td>Fortnite</td>
+                <td>Robotics</td>
+                <td>Arduino</td>
+                <td>Earn money</td>
+                <td>Earn money</td>
+                <td>Arduino</td>
+            </tr>
+            <!-- People -->
+            <tr>
+                <td>Family</td>
+                <td>Family</td>
+                <td>Robotics ppl</td>
+                <td>Family</td>
+                <td>Co-workers</td>
+                <td>Co-workers</td>
+                <td>Family</td>
+            </tr>
+            <!-- Place to go -->
+            <tr>
+                <td>Park</td>
+                <td>Blue park</td>
+                <td>My Room</td>
+                <td>green park</td>
+                <td>My Room</td>
+                <td>Ocean</td>
+                <td>Yard</td>
+            </tr>
+        </table>
+    </body>
+</html>
