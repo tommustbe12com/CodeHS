@@ -1,0 +1,14 @@
+function main() {
+	// Write your code here
+	checkFront();
+	turnLeft();
+	checkFront();
+	turnRight();
+}
+main();
+
+function checkFront() {
+    while(frontIsClear()) {
+	    move();
+	}
+}
