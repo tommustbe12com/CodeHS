@@ -2,10 +2,9 @@
 A suite of CodeHS answers for different units and problems that you can easily copy-paste to quickly get things done.
 
 ## Completed Programs
-- None yet
+- Programming with Karel
 
 ## In-progress Programs
-- Programming With Karel
 - Web Design (Picasso)
 
 ## To-do Programs
