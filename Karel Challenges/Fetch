@@ -1,0 +1,31 @@
+function main() {
+    // Write your code here
+    goUp();
+    takeBall();
+    turnLeft();
+    turnLeft();
+    goDown();
+}
+
+function goUp() {
+    turnLeft();
+    for(let i = 0; i < 4; i++) {
+        move();
+    }
+    turnRight();
+    move();
+    move();
+}
+
+function goDown() {
+    move();
+    move();
+    turnLeft();
+    for(let i = 0; i < 4; i++) {
+        move();
+    }
+    turnLeft();
+    putBall();
+}
+
+main();
