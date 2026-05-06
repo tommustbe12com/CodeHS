@@ -1,0 +1,68 @@
+function main() {
+    while (leftIsClear()) {
+        // go across (E or W)
+        cleanRow();
+
+        // up one
+        turnLeft();
+        if (frontIsClear()) {
+            move();
+        }
+        turnLeft();
+
+        // back across
+        cleanRow();
+
+        // try to go up again
+        turnRight();
+        if (frontIsClear()) {
+            move();
+            turnRight();
+        } else {
+            turnRight(); // fix direction
+            break;
+        }
+    }
+
+    // clean final
+    cleanRow();
+
+    returnHome();
+}
+
+// clean 1 row
+function cleanRow() {
+    while (frontIsClear()) {
+        cleanCorner();
+        move();
+    }
+    cleanCorner();
+}
+
+// pick up all da balls
+function cleanCorner() {
+    while (ballsPresent()) {
+        takeBall();
+    }
+}
+
+// back to bottom left
+function returnHome() {
+    while (notFacingSouth()) {
+        turnLeft();
+    }
+    while (frontIsClear()) {
+        move();
+    }
+
+    while (notFacingWest()) {
+        turnLeft();
+    }
+    while (frontIsClear()) {
+        move();
+    }
+
+    turnAround();
+}
+
+main();
