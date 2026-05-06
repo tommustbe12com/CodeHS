@@ -1,0 +1,27 @@
+/* This program will have Karel run around the racetrack
+ * 8 times. */
+function main() {
+    // Write your code here
+    for (let i = 0; i < 4; i++) {
+        // move if the front thingy is clear and stuff so yea
+        moveIfClear();
+        // left
+        turnLeft();
+        // put the balls
+        placeBalls();
+    }
+}
+
+function placeBalls() {
+    for (let i = 0; i < 8; i++) {
+        putBall();
+    }
+}
+
+function moveIfClear() {
+    while(frontIsClear()) {
+        move();
+    }
+}
+
+main();
