@@ -1,0 +1,51 @@
+function main() {
+    move();
+    
+    // steal all the balls
+    drainToTemp();
+    
+    move();
+    
+    // put em back but like, twice
+    doubleUp();
+    
+    // go home
+    turnAround();
+    move();
+    move();
+    turnAround();
+}
+
+function moveBallToTemp() {
+    takeBall();
+    move();
+    putBall();
+    turnAround();
+    move();
+    turnAround();
+}
+
+function drainToTemp() {
+    while (ballsPresent()) {
+        moveBallToTemp();
+    }
+}
+
+function doubleBallBack() {
+    takeBall();
+    turnAround();
+    move();
+    putBall();
+    putBall();
+    turnAround();
+    move();
+}
+
+// double
+function doubleUp() {
+    while (ballsPresent()) {
+        doubleBallBack();
+    }
+}
+
+main();
