@@ -3,6 +3,7 @@ A suite of CodeHS answers for different units and problems that you can easily c
 
 ## Completed Programs
 - Programming with Karel
+- Karel Challenges
 
 ## In-progress Programs
 - Web Design (Picasso)
@@ -15,7 +16,6 @@ A suite of CodeHS answers for different units and problems that you can easily c
 - Hour of Code: Programming with Karel the Dog
 - Hour of Code: Javascript Graphics Art
 - The Internet
-- Karel Challenges
 - Basic Java
 - Methods
 - Classes and Object-Oriented Programming
