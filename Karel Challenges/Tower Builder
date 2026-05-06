@@ -1,0 +1,29 @@
+function main() {
+    buildTower();
+    while (frontIsClear()) {
+        move();
+        if (frontIsClear()) {
+            move();
+            buildTower();
+        }
+    }
+}
+
+// this function builds towers
+function buildTower() {
+    turnLeft();
+    putBall();
+    move();
+    putBall();
+    move();
+    putBall();
+    move();
+    turnRight();
+    turnRight();
+    move();
+    move();
+    move();
+    turnLeft();
+}
+
+main();
