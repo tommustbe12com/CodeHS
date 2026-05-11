@@ -1,0 +1,7 @@
+@keyframes changezeimage {
+    from{filter:contrast(0%);}
+    to{filter:contrast(100%);}
+}
+img {
+    animation: 2s changezeimage forwards;
+}
