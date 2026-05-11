@@ -1,0 +1,41 @@
+ul{
+    list-style:square;
+}
+body{
+    font-size:20px;
+}
+
+li:hover::after{
+    background-color:PaleGoldenRod;
+    content:"  Pick me! Pick me!";
+}
+
+li:active::after{
+    background-color: #46c70b;
+    content: " You have made a good decision";
+}
+
+#seong:hover::after{
+    background-color: PaleGoldenrod;
+    content: " if you don't pick me i'll eat your dog";
+}
+#seong:active::after {
+    background-color: #46c70b;
+    content: " yeah thats what i thought bruh";
+}
+#andile:hover::after{
+    background-color: PaleGoldenrod;
+    content: " me sad if u no pick me";
+}
+#andile:active::after {
+    background-color: #46c70b;
+    content: " ur the goat";
+}
+#shakti:hover::after{
+    background-color: PaleGoldenrod;
+    content: " Please just pick me, it's all that I ask...";
+}
+#shakti:active::after {
+    background-color: #46c70b;
+    content: " Dang my reverse psychology tactic didn't work...";
+}

@@ -1,0 +1,26 @@
+ul{
+    list-style:none; /* removes the bullet points*/
+    display:inline-flex; /* allows the links to be next to each other*/
+}
+
+
+body{
+    background-color:#92aa58;
+    text-align:center; /* centers all of the elements in the body */
+    color:#aa6458;
+}
+
+/** Styles for the "buttons" **/
+a{
+    border: 7px groove #baaf5d; /* sets the border to make it look like a button */
+    text-decoration:none; /* removes the underline from the link */
+    color:white;
+    background-color:#baaf5d;
+}
+
+
+.featured{
+    color:#aa6458;;
+    font-size:64px;
+    background-color:#58aa88;;
+}
